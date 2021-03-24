@@ -1,0 +1,5 @@
+package com.thomas.bookster.repositories;
+
+public interface UserRepository {
+
+}

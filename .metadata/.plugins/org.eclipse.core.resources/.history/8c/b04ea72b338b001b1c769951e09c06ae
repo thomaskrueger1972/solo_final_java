@@ -1,0 +1,5 @@
+package com.thomas.bookster.services;
+
+public class UserService {
+
+}
